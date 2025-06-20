@@ -1,0 +1,19 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(10,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(11,9): error C2065: fld1: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(12,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(12,9): error C2065: fld: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(12,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "val"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(13,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fsqrt"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(13,9): error C2065: fsqrt: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(14,9): error C2065: fld: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(14,13): error C3861: st: идентификатор не найден
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld1"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(15,9): error C2065: fld1: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld1"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(16,9): error C2065: fld1: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(17,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld1"
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(17,9): error C2065: fld1: необъявленный идентификатор
+C:\Users\zaron\Desktop\paterov\ConsoleApplication1\ConsoleApplication1.cpp(18,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
